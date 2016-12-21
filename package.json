@@ -10,7 +10,6 @@
     "pree2e": "webdriver-manager update",
     "e2e": "protractor"
   },
-  "private": true,
   "module": "web-speech-api/index.js",
   "typings": "web-speech-api/index.d.ts",
   "dependencies": {
