@@ -11,6 +11,8 @@
     "e2e": "protractor"
   },
   "private": true,
+  "module": "web-speech-api/index.js",
+  "typings": "web-speech-api/index.d.ts",
   "dependencies": {
     "@angular/common": "~2.1.0",
     "@angular/compiler": "~2.1.0",
